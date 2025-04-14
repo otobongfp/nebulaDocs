@@ -1,0 +1,5 @@
+In Search of an Understandable Consensus Algorithm - https://raft.github.io/raft.pdf
+https://thesecretlivesofdata.com/raft/
+https://jepsen.io/analyses/raft
+https://github.com/datafuselabs/openraft
+https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14.pdf
